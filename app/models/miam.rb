@@ -1,0 +1,2 @@
+class Miam < ApplicationRecord
+end
